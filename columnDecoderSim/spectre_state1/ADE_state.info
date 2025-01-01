@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("VLSIProject_1cosc" "columnDecoderSim" "schematic" "spectre")
+descriptionText = "ColumnDecoder. Looks Like it is working.\nBut the output voltage is less that that of bitline\n"

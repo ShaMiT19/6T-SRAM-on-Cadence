@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("Inverter" "ColumnDecoder" "schematic" "spectre")
+descriptionText = "None"

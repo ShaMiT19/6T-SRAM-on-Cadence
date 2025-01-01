@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("VLSIProject_1cosc" "columnDecoderSim" "schematic" "spectre")
+descriptionText = "ColumnDecoder. Looks Like it is working.\nChanged the NMOS width to 360nm.\nBut the output voltage is still less that that of bitline\n"

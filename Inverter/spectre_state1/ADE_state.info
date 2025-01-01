@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("Project1" "inverter" "schematic" "spectre")
+descriptionText = "Testing Inverter"

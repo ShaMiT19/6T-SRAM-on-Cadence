@@ -1,0 +1,3 @@
+projectDir = '"~/simulation"
+designInfo = '("VLSIProject_1cosc" "completeIntegrationEightBits" "schematic" "spectre")
+descriptionText = "While writing Q1, Q2 is also being written.\nHypothesis: The Column decoder is accessing two columns of SRAM at once instead of one Column.\nExperiment: Test the Column Decoder. "
